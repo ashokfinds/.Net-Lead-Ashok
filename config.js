@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":6,"title":"AshokKumar_TestLead.docx","author":"Ashok","fileName":"ASHOK_KUMAR_Malaysia_12_00_yrs.pdf","bounds":[[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286]],"bookmarks":[{"title":"PROFESSIONAL EXPERIENCE","page":1,"zoom":"XYZ 82 142 0"}],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
